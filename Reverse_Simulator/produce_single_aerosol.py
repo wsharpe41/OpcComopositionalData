@@ -15,8 +15,6 @@ def build_all_categories():
     combos = list(combinations_with_replacement(aerosols,2))
     pool = Pool(10)
     names = [combo[0].name + "_" + combo[1].name+"_lower_rh" for combo in combos]
-    print(names)
-    print(combos)
     pool.starmap(build_single_category,(zip(combos,names)))
     print("---------CATEGORY COMPLETE-----------")
 

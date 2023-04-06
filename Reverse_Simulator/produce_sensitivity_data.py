@@ -1,4 +1,3 @@
-import itertools
 import math
 
 from Aerosol_Classes.aerosolclass import AerosolClass
