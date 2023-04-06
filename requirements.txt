@@ -1,0 +1,13 @@
+opcsim
+matplotlib
+pandas
+numpy
+seaborn
+psycopg2
+configparser
+scikit-learn
+mljar-supervised
+quantaq
+tensorflow
+kerastuner
+scipy
