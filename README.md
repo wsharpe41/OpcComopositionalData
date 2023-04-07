@@ -1,1 +1,1 @@
-Package to simulate low cost OPCs in parallel with thermal denuders and driers for aerosol classification.
+Package to simulate low cost OPCs in parallel with thermal denuders and driers for aerosol classification. A high level overview is provided here: https://docs.google.com/presentation/d/1zpijNPki9SMFlSbYS0_zqxRjwjoU71FzJoq1FpiZtEM/edit?usp=share_link 
